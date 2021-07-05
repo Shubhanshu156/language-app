@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">language app</string>
+    <string name="numbers">numbers</string>
+    <string name="colors">colors</string>
+    <string name="family">family members</string>
+    <string name="phrases">phrases</string>
+</resources>
